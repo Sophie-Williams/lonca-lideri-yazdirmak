@@ -1,2 +1,2 @@
 # lonca-lideri-yazdirmak
- Loncayı kuran kişinin lonca isminin başında Lonca Lideri yazdırmak.
+ Loncayı kuran kişinin lonca isminin başında Lonca Lideri yazdırır.
